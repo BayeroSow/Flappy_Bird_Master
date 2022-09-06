@@ -1,5 +1,5 @@
 # Flappy Bird
-An AI that plays flappy bird! Using the NEAT python module.
+An AI that teaches it self how to play flappy bird, it start off completly random having absolutely no idea what to do and how the gaming would operate, and after many generation of slowly learning and slowly getting better, it's finally picks up on patterns and what it can do to progress forder in the level
 
 
 # Requirements
@@ -10,19 +10,25 @@ An AI that plays flappy bird! Using the NEAT python module.
 - matplotlib
 
 # Schema
-
-#### User
-
 Simply run *flappy_bird.py* and watch an AI start training itself to play the game of flappy bird!
 
-# Video Tutorial
+#### User
+- Ask
+- type
+- answer
 
-You can view on the details of this project here: https://www.youtube.com/watch?v=OGHA-elMrxI
+### Project
 
-# Run in Gitpod
+- name: Flappy Bird
+- description: textfield
+- createdAt: timestamp
+- updatedAt: timestamp
 
-You can also run NEAT-Flappy-Bird in Gitpod, a free online dev environment for GitHub:
+### Log
+- text: textfield
+- createdAt: timestamp
+- updatedAt: timestamp
 
-If you're intersted in a paid subscription with GitPod use the coupon code: TECHWITHTIM19
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/techwithtim/NEAT-Flappy-Bird/blob/master/flappy_bird.py)
+
+
