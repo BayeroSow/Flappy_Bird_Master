@@ -1,6 +1,6 @@
-<img src="website/First.png" width="1000">
-<img src="website/Second.png" width="1000">
-<img src="website/Third.png" width="1000">
+<img src="imgs/First.png" width="1000">
+<img src="imgs/Second.png" width="1000">
+<img src="imgs/Third.png" width="1000">
 
 
 
