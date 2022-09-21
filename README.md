@@ -7,7 +7,7 @@
 
 
 # Flappy Bird
-An AI that teaches it self how to play flappy bird, it start off completly random having absolutely no idea what to do and how the gaming would operate, and after many generation of slowly learning and slowly getting better, it's finally picks up on patterns and what it can do to progress forder in the level
+An AI that teaches it self how to play flappy bird, it start off completly random having absolutely no idea what to do and how the gaming would operate, and after many generation of slowly learning and slowly getting better, it's finally picks up on patterns and what it can do to progress forder in the level.
 
 
 # Requirements
